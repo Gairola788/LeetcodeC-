@@ -24,3 +24,7 @@ This repo tracks my progress, solutions, and approaches.
 - Solve at least 300+ quality problems in C++
 - Strengthen problem-solving skills for placements & interviews
 
+- Implemented binary search to find the correct index of insertion.  
+- Learned the importance of handling edge cases in sorted arrays.  
+
+Next Goal: Continue solving array-based problems to strengthen fundamentals. 💪  
