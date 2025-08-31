@@ -28,3 +28,5 @@ This repo tracks my progress, solutions, and approaches.
 - Learned the importance of handling edge cases in sorted arrays.  
 
 Next Goal: Continue solving array-based problems to strengthen fundamentals. 💪  
+
+## Container with most water - Done
